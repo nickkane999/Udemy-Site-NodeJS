@@ -35,10 +35,6 @@ if (process.env.NODE_ENV === 'production') {
     });
 } 
 
-app.get('/', (req, res) => {
-    res.send({bye: 'there'});
-});
-
 
 
 const PORT = process.env.PORT || 5000;
