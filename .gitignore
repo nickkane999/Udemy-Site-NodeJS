@@ -2,3 +2,4 @@ node_modules
 dev.js
 client/.env.development
 client/.env.production
+improvements.txt
